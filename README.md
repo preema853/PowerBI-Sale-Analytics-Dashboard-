@@ -25,12 +25,6 @@ The project analyzes sales data to uncover insights about revenue, profit, and r
 
 ---
 
-## 📸 Dashboard Preview
-
-![WhatsApp Image 2025-09-21 at 11 01 16_2fc3f9fc](https://github.com/user-attachments/assets/4f7ef32e-a804-41e7-9073-6f2fb60636d3)
-
----
-
 ## 🚀 How to Use
 1. Download the `.pbix` file.  
 2. Open it in **Power BI Desktop**.  
